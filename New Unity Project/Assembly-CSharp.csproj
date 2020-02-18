@@ -69,6 +69,7 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <None Include="Assets\Textures\readme.txt" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/45761787/Documents/GitHub/WCOM1011-3D-Practicals/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
